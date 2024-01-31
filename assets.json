@@ -1,5 +1,3 @@
-// Don't change keys
-// To hide Ad Banner from the site, change adLink value as ""
 {
     "adLink": "https://info.enhancefitness.com/noon-minutes",
     "adBannerEn": "https://z.nooncdn.com/rn/instant/web/web-banner.jpg",
