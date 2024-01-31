@@ -10,4 +10,4 @@
 **⚠️ Warning:** Do not change any keys in the JSON object.
 
 ### Instructions:
-To hide the banner from the site, change the `adLink` to an empty string (`""`).
+To hide the banner from the site, set `adLink` to `null`
