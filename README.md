@@ -1,4 +1,4 @@
-`# Web Assets Configuration
+# Web Assets Configuration
 
 ```json
 {
