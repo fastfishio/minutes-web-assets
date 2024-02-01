@@ -2,9 +2,10 @@
 
 ```json
 {
-    "adLink": "https://info.enhancefitness.com/noon-minutes",
-    "adBannerEn": "https://z.nooncdn.com/rn/instant/web/web-banner.jpg",
-    "adBannerAr": "https://z.nooncdn.com/rn/instant/web/web-banner-ar.jpg"
+    "adLink": "HTTPS://LINK_GOES_HERE.COM",
+    "adBannerEn": "HTTPS://CDN_LINK_FOR_THE_EN_BANNER_GOES_HERE.COM/EN.JPG",
+    "adBannerAr": "HTTPS://CDN_LINK_FOR_THE_AR_BANNER_GOES_HERE.COM/AR.JPG",
+    "adCampaign": "CAMPAIGN_NAME"
 }
 ```
 **⚠️ Warning:** Do not change any keys in the JSON object.
